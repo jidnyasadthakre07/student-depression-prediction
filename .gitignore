@@ -1,0 +1,13 @@
+# Ignore environment
+venv/
+
+# Ignore dataset
+data/*.csv
+
+# Ignore models
+models/*.pkl
+
+# Ignore cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
