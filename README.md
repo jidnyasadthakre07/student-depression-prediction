@@ -321,3 +321,7 @@ Three models were trained, evaluated, and compared:
 - [ ] Add a counselor recommendation module based on risk level
 
 ---
+
+## Author
+
+Jidnyasa Thakre
