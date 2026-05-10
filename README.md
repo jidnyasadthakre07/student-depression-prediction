@@ -324,4 +324,8 @@ Three models were trained, evaluated, and compared:
 
 ## Author
 
-Jidnyasa Thakre
+**Jidnyasa Thakre**
+
+**LinkedIn:** https://www.linkedin.com/in/jidnyasathakre/
+
+**GitHub:** https://github.com/jidnyasadthakre07
