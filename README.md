@@ -3,7 +3,6 @@
 > An end-to-end machine learning web application that predicts the likelihood of depression in students based on lifestyle and academic factors — with real-time explainability powered by SHAP.
 
 ---
-
 ## 📌 Table of Contents
 
 - [Overview](#overview)
@@ -40,11 +39,10 @@ What makes this project stand out is its **transparency** — instead of just ou
 
 ## 🚀 Live Demo
 
-> Run the app locally by following the [Installation & Setup](#installation--setup) section below.
+The application is deployed and publicly accessible on Hugging Face Spaces.
 
-```bash
-streamlit run app.py
-```
+🔗 **Live Application:**  
+https://huggingface.co/spaces/Jidnyasa11/student-depression-prediction
 
 ---
 
