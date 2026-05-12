@@ -39,6 +39,8 @@ What makes this project stand out is its **transparency** — instead of just ou
 
 ## 🚀 Live Demo
 
+The application is deployed and publicly accessible on Hugging Face Spaces.
+
 🔗 **Live Application:**  
 https://huggingface.co/spaces/Jidnyasa11/student-depression-prediction
 
